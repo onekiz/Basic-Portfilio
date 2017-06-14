@@ -11,8 +11,6 @@
 
 html{
 	position: relative;
-	min-width:1200px;
-	min-height:2000px;
 }
 
 
@@ -20,6 +18,8 @@ body{
 	overflow:scroll;
 	background-color: #eee;
 	background-image: url("../images/concrete-texture.png");
+	min-width:1200px;
+	min-height:2000px;
 }
 
 
